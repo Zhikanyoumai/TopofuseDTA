@@ -11,7 +11,7 @@ TopoFuse-DTA is a hierarchical multi-granularity interaction framework for drugâ
 
 ## Architecture
 
-![TopoFuse-DTA Architecture](figures/architecture.png)
+![TopoFuse-DTA Architecture](architecture.png)
 
 ## Project Structure
 
